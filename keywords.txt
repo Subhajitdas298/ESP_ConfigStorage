@@ -1,0 +1,51 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESP_ConfigStorage	KEYWORD1
+Storage	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clear	KEYWORD2
+    
+getEEPROM	KEYWORD2
+setEEPROM	KEYWORD2
+
+getWiFiMode	KEYWORD2
+setWiFiMode	KEYWORD2
+
+getSSID	KEYWORD2
+setSSID	KEYWORD2
+
+getProtection	KEYWORD2
+setProtection	KEYWORD2
+
+getPassword	KEYWORD2
+setPassword	KEYWORD2
+
+getHostname	KEYWORD2
+setHostname	KEYWORD2
+
+getConfigMode	KEYWORD2
+setConfigMode	KEYWORD2
+
+getIP	KEYWORD2
+setIP	KEYWORD2
+
+getGateway	KEYWORD2
+setGateway	KEYWORD2
+
+getSubnet	KEYWORD2
+setSubnet	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
